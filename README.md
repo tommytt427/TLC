@@ -1,4 +1,4 @@
-Traffic Light Controller
+TLC
 ===================
 
 By Thomas Tran
